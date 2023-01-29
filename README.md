@@ -19,6 +19,6 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### Currently working on:
 
-### :money_with_wings:[Currency rates](https://github.com/resetcat/currency-rates)
+### :iphone:[gif-searcher](https://github.com/resetcat/gif-searcher)
 
-REST API, done in JAVA, using javalin
+Android gif image search app 
