@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Mihails.
 
-JAVA Software Developer. Specializing in JAVA & Spring Boot, HTTP & Web API & Unit Testing.
+Software Developer. Specializing in JAVA & Spring Boot, HTTP & Web API & Unit Testing.
 
 ---
 
