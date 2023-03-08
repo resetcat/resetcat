@@ -17,6 +17,6 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### Currently working on:
 
-### :iphone:[gif-searcher](https://github.com/resetcat/gif-searcher)
+### :computer:[gif-searcher](https://github.com/resetcat/url-shortener)
 
-Android gif image search app 
+URL shortener to reduce a long link
