@@ -17,6 +17,6 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### Currently working on:
 
-### :computer:[gif-searcher](https://github.com/resetcat/url-shortener)
+### :computer:[url-shortener](https://github.com/resetcat/url-shortener)
 
 URL shortener to reduce a long link
