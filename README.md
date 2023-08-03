@@ -21,4 +21,4 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### :computer:[diablo 4 event bot](https://github.com/resetcat/diablo4-event-bot)
 
-URL shortener to reduce a long link
+discord event bot
