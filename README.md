@@ -19,6 +19,6 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### Currently working on:
 
-### :computer:[diablo 4 event bot](https://github.com/resetcat/diablo4-event-bot)
+### :meat_on_bone:[price peeker](https://github.com/resetcat/Price-Peeker)
 
-discord event bot
+grocery store price comparision.
