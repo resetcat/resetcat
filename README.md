@@ -19,6 +19,6 @@ LinkedIn: https://www.linkedin.com/in/mihails-dudarevs/
 
 ### Currently working on:
 
-### :meat_on_bone:[price peeker](https://github.com/resetcat/Price-Peeker)
+### :mouse:[win-mouse-macro](https://github.com/resetcat/win-mouse-macro)
 
 grocery store price comparision.
